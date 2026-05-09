@@ -1,0 +1,13 @@
+# Backend
+FightTracker-Complete/target/
+FightTracker-Complete/.idea/
+
+# Frontend
+fighttracker-angular-complete/node_modules/
+fighttracker-angular-complete/dist/
+fighttracker-angular-complete/.angular/
+
+# Geral
+.idea/
+.vscode/
+*.log
