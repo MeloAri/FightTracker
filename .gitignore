@@ -6,7 +6,8 @@ FightTracker-Complete/.idea/
 fighttracker-angular-complete/node_modules/
 fighttracker-angular-complete/dist/
 fighttracker-angular-complete/.angular/
-
+FightTracker-Complete/src/main/resources/application.properties
+src/main/resources/application.properties
 # Geral
 .idea/
 .vscode/
